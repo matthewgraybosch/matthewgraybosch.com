@@ -51,7 +51,7 @@ oedipus:
     code:
       name: "GNU GPL-3.0"
       url: "https://opensource.org/licenses/GPL-3.0/"
-  made-with: "&hearts; in Pennsylvania"
+  made-with: "GNU Emacs and Jekyll on a refurbished PC"
   style:
     content-centered: false
     compact-header: true
