@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: matthewgraybosch.com
+email: contact@matthewgraybosch.com
+description: >- 
+  a full-stack thaumaturge's book of shadows
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://matthewgraybosch.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  matthewgraybosch
+
+# Build settings
+theme: jekyll-oedipus-theme
+plugins:
+  - jekyll-feed
+
+plugins:
+  - jekyll-feed
+  - jekyll-json-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+permalink: /blog/:year/:month/:day/:title/
+
+oedipus:
+  rights: most rights reserved
+  license:
+    text:
+      name: "CC BY-NC-SA 4.0"
+      url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    code:
+      name: "GNU GPL-3.0"
+      url: "https://opensource.org/licenses/GPL-3.0/"
+  made-with: "&hearts; in Pennsylvania"
+  style:
+    content-centered: false
+    compact-header: true
+    home-header-icon: false
