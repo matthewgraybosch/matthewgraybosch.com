@@ -41,13 +41,13 @@ That's the way you do it in my trade.
 
 ## "The solution to Zoom fatigue: everyone turn on the camera at all times."
 
-Mr. Rotariu thinks this is "counterintuitive".
+Mr. Rotariu thinks this is "counter-intuitive".
 
 I disagree: I think it's *arrant nonsense*, and his arguments to support this 'solution' didn't convince me to change my mind.
 
 ## "In the long term, lack of video amplifies Zoom fatigue"
 
-Really? What if the vast majority of workers never liked or wanted Zoom in the first place? What if Zoom wasn't something we chose, but something our bosses imposed on us (like Slack, Microsoft Teams, Skype, Outlook, and daily commutes to toil in an open-plan office)? There must be better videoconferencing apps out there; when was the last time you heard Apple owners complaining about "Facetime fatigue"?
+Really? What if the vast majority of workers never liked or wanted Zoom in the first place? What if Zoom wasn't something we chose, but something our bosses imposed on us (like Slack, Microsoft Teams, Skype, Outlook, and daily commutes to toil in an open-plan office)? There must be better videoconferencing apps out there; when was the last time you heard Apple owners complaining about "FaceTime fatigue"?
 
 > To understand why, we need to go to the root cause of Zoom fatigue. It comes from the insufficient nonverbal information conveyed through videoconferencing.
 
@@ -61,11 +61,11 @@ I don't buy his claim because of my own experience. Instead of seeking the compa
 
 When I first became a man I wanted my own apartment. Once I had my own apartment, the thought of neighbors a mere wall or floor away from me eventually became so intolerable that I bought a house. If I had the means to do so, I'd buy a house on such a large plot of land that my nearest neighbors would be at least a quarter mile away.
 
-Healthy neurotypical people have boundaries. I have [The Wall][3]. In fact, as a misanthrope I find this quote from Alexandre Dumas' *The Count of Monte Cristo* applicable:
+Healthy neurotypical people have boundaries. I have [The Wall][3]. In fact, as a misanthrope I find this quote from Alexandre Dumas' *The Count of Monte Cristo* particularly relevant:
 
 > Perhaps what I am about to say will appear strange to you gentlemen, socialists, progressives, humanitarians as you are, but I never worry about my neighbor, I never try to protect society which does not protect me—indeed, I might add, which generally takes no heed of me except to do me harm—and, since I hold them low in my esteem and remain neutral towards them, I believe that society and my neighbor are in my debt.
 
-Like Dumas' enigmatic Count, I am not overly fond of society or of humanity as a whole. I'm not Jesus; I can't love all people. I can only love specific individuals. As for the rest, I am content to [live and let die][4].
+Like Dumas' enigmatic Count, I am not overly fond of society or of humanity as a whole. I'm not Jesus; I can't love all people. I can only love specific individuals. As for the rest, I am content to [live and let live][4].
 
 Nor am I the only one who feels this way and acts accordingly within the limits of my means. The richest among us do everything they can to isolate themselves from the vast majority of people. Based on this observation, I would suggest that sociability is mainly a survival strategy. In a hunter-gatherer society, loners tend to die young. However, if you're reading this on the internet you do not live in such a society. 
 
@@ -139,9 +139,9 @@ If it can't be done in science fiction, do you really think it's gonna work in r
 
 > If you take away video, too little information remains and your Paleo Robot feels anxious
 
-My "Paleo Robot"? This reminds me of when my wife was listening to the audiobooks of E. L. James' *Fifty Shades* novels and the protagonist/narrator mentioned her "inner goddess" in what sounds like every other paragraph.
+My "Paleo Robot"? Is this guy serious? This reminds me of when my wife was listening to the audiobooks of E. L. James' *Fifty Shades* novels and the protagonist/narrator mentioned her "inner goddess" in what sounds like every other paragraph.
 
-Mr. Rotariu might find the lack of video nerve-wracking, but I don't. I think it's just one less distraction.
+Mr. Rotariu needs to learn to speak for himself. *He* might find the lack of video nerve-wracking, but I don't. I think it's just one less distraction.
 
 > You have some tone of voice, but it’s incomplete. You are missing out on most of communication. This makes your monkey brain anxious. You don’t know if you are being rejected or validated. This uncertainty remains almost regardless of what the other participants say. We evolved to seek out validation from non-verbal communication.
 
@@ -166,8 +166,6 @@ When people don't need other people to survive, they become a lot more selective
 [External validation is a trap.][9] If you grow too dependent on what others think of you and how they feel about you, you risk becoming a doormat or a tyrant. You may bend over backwards for others, trying to please them so that they'll love you, or seek power over them so that they have no choice but to please *you*.
 
 Instead, I prefer to cultivate an old-fashioned virtue called [self-reliance][10]. Rather than needing people, I would prefer to be able to enjoy their company without being dependent on them.
-
-I'd rather be a cat than a dog.
 
 > You might have the best presentation in the world. It will feel like a failure.
 
@@ -214,7 +212,7 @@ PS: If you try to use my dislike of Zoom to force me to return to the office, yo
 [1]: https://victorrotariu.com/2021/06/if-you-want-to-work-remote-turn-on-your-camera-in-zoom/ "If You Want to Work Remote, Turn Your Camera On in Zoom"
 [2]: https://news.ycombinator.com/item?id=27677101 "Hacker News: aka 4chan for Silicon Valley techbros"
 [3]: https://www.youtube.com/watch?v=rt4sSrk4sOM "Pink Floyd: The Wall, live at Nassau Colosseum"
-[4]: https://www.youtube.com/watch?v=NR0UmZcf89E "Wings: Live and Let Die (Remastered)"
+[4]: https://www.youtube.com/watch?v=NR0UmZcf89E "Actually, let's live and Let die..."
 [5]: https://www.sciencedaily.com/releases/2017/11/171120174505.htm "Non-fearful social withdrawal linked positively to creativity"
 [6]: https://www.scientificamerican.com/article/why-is-cell-phone-call-quality-so-terrible/ "Why Is Cell Phone Call Quality So Terrible?"
 [7]: https://www.bbc.com/future/article/20150906-the-best-and-worst-ways-to-spot-a-liar "BBC: The Best and Worst Ways to Spot a Liar"

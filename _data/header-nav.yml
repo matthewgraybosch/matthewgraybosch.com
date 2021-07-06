@@ -1,0 +1,6 @@
+- name: home
+  url: /
+  desc: Start here.
+- name: about
+  url: /about/
+  desc: A little information about who I am and what I do.
