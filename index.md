@@ -4,7 +4,7 @@ layout: home
 
 # Hello
 
-I'm [Matthew Graybosch][5], a full-stack thaumaturge from New York. This is my personal website. If you're looking for my science fantasy writing, please visit [starbreaker.org][1] instead.
+I'm [Matthew Graybosch][5], a full-stack thaumaturge from New York. This is my [personal website][6]. Here's [where I am now][7]. If you're looking for my science fantasy writing, please visit [starbreaker.org][1] instead.
 
 ## Recent Posts
 
@@ -25,3 +25,5 @@ If you want to subscribe, please use the [Atom][2] or [JSON][3] feeds.
 [3]: /feed.json
 [4]: mailto:contact@matthewgraybosch.com
 [5]: /about/
+[6]: /colophon/
+[7]: /now/

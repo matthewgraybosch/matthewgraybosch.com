@@ -4,3 +4,6 @@
 - name: about
   url: /about/
   desc: A little information about who I am and what I do.
+- name: now
+  url: /now/
+  desc: Here's where I'm at now...
