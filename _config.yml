@@ -28,8 +28,6 @@ github_username:  matthewgraybosch
 
 # Build settings
 theme: jekyll-oedipus-theme
-plugins:
-  - jekyll-feed
 
 plugins:
   - jekyll-feed
@@ -56,3 +54,10 @@ oedipus:
     content-centered: false
     compact-header: true
     home-header-icon: false
+
+collections_dir: collections
+
+collections:
+  commonplace:
+    output: true
+    permalink: /:collection/:name

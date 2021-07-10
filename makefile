@@ -8,3 +8,6 @@ build: update
 
 serve: update
 	bundle exec jekyll serve --watch
+
+entry:
+	./commonplace.sh

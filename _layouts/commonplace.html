@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<dl id="content">
+  <dt><time datetime="{{ page.date }}">{{ page.date }}</time></dt>
+  <dd>
+    {{ content | markdownify }}
+  </dd>
+</dl>

@@ -1,6 +1,9 @@
 - name: colophon
   url: /colphon/
   desc: Website Info
+- name: privacy
+  url: /privacy/
+  desc: my privacy policy in two words? fuck adtech
 - name: atom feed
   url: /feed.xml
   desc: Subscribe via Atom feed

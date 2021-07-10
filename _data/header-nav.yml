@@ -1,9 +1,18 @@
 - name: home
   url: /
-  desc: Start here.
+  desc: Start here...
 - name: about
   url: /about/
-  desc: A little information about who I am and what I do.
+  desc: A little information about who I am and what I do...
+- name: blog
+  url: /blog/
+  desc: This is my blog...
+- name: "commonplace"
+  url: /commonplace/
+  desc: "A commonplace book is a place for little things: notes, ideas, scraps, links, etc..."
 - name: now
   url: /now/
   desc: Here's where I'm at now...
+- name: uses
+  url: /uses/
+  desc: This is what I use...

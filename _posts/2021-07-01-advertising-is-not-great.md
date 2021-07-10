@@ -90,9 +90,9 @@ The government doesn't have to spy on you; they need only ask corporations to ha
 
 Those problems for which advertising supposedly allows you to passively discover solutions are often imaginary and wouldn't exist at all without advertising.
 
-A well-designed ad is one that creates desires where none previously existed while promising that the product the ad seeks to sell will provide the solution. A well-designed ad does not serve anybody but the advertiser and their clients. Making better ads will not change this.
+A well-designed ad is one that creates desires where none previously existed while promising that the product the ad seeks to sell will provide the solution. A well-designed ad does not serve anybody but the advertiser and their clients. 
 
-The solution is not better ads. The solution is to strip corporations of First Amendment protection and banning all non-factual advertising by corporations. This is not a palatable solution for people who profit from advertising, but I'm not one of them and they're no friends of mine.
+Making "better ads" will not change this. The solution is to strip corporations of First Amendment protection and ban all non-factual advertising by corporations. This is not a palatable solution for people who profit from advertising, but I'm not one of them and they're no friends of mine.
 
 [1]: https://buttondown.email/tZero19e/archive/ads-are-not-bad-ads-can-be-great/
 [2]: https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts
@@ -104,3 +104,4 @@ The solution is not better ads. The solution is to strip corporations of First A
 
 *[Harry Potter fanfic]: Harry Potter and the Methods of Rationality
 *[website for wannabe Vulcans]: https:/lesswrong.org
+
