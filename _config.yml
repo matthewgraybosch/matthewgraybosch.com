@@ -55,9 +55,13 @@ oedipus:
     compact-header: true
     home-header-icon: false
 
-collections_dir: collections
-
 collections:
   commonplace:
     output: true
     permalink: /:collection/:name
+
+feed:
+  posts_limit: 65536
+  collections:
+    commonplace:
+      path: "/commonplace/feed.xml"

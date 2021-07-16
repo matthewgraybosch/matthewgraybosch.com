@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Commonplace Book
+title: Matthew's Commonplace
 description: "A commonplace book is a place for little things: notes, ideas, scraps, links, etc..."
 permalink: /commonplace/
 ---
 
-<p>This is my <a href="https://en.wikipedia.org/wiki/Commonplace_book" title="Wikipedia: Commonplace book">"commonplace book"</a>. {{ page.description }} I use mine to keep things that don't merit a full <a href="/blog/">blog</a> entry.</p>
+<p>This is my <a href="https://en.wikipedia.org/wiki/Commonplace_book" title="Wikipedia: Commonplace book">"commonplace book"</a>. {{ page.description }} I use mine to keep things that don't merit a full <a href="/blog/">blog</a> entry. There's also an <a href="/commonplace/feed.xml">Atom feed</a>.
+<p>Disclaimer: All opinions are my own. Read at your own risk.</p>
 <section>
   <h2>Entries</h2>
   <p>Right now I show all entries. If too many accumulate, I might only show the most recent here while providing links to the rest.</p>
   <dl>
-    {% assign recent = site.commonplace | sort: 'date' | reverse %}
-    {% for post in recent %}
-    <dt id="{{ post.unixtime }}">
-      <time datetime="{{ post.date }}"><a href="{{ post.url }}">{{ post.date }}</a></time>
+    {% assign recent_posts = site.commonplace | sort: 'date' | reverse %}
+    {% for recent_post in recent_posts %}
+    <dt id="{{ recent_post.unixtime }}">
+      <time datetime="{{ recent_post.date }}"><a href="{{ recent_post.url }}">{{ recent_post.date }}</a></time>
     </dt>
     <dd>
-      {{ post.content | markdownify }}
+      {{ recent_post.content | markdownify }}
     </dd>
     {% endfor %}
   </dl>

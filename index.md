@@ -8,6 +8,8 @@ I'm [Matthew Graybosch][5], a full-stack thaumaturge from New York. This is my [
 
 ## Recent Posts
 
+These are the most recent posts from my [blog](/blog/). I also have a [commonplace book](/commonplace/).
+
 {% include recent-posts-table.html limit=10 %}
 
 ## Contact Info

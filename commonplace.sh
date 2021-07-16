@@ -5,7 +5,7 @@
 # Available under the GNU General Public License v3.0
 
 VISUAL=/usr/bin/emacs
-DIRECTORY=collections/_commonplace/
+DIRECTORY=_commonplace/
 FILENAME=$(date +'%s').md
 TIMESTAMP=$(date +'%F %T %z')
 
