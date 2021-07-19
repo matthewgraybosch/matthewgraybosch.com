@@ -1,0 +1,28 @@
+---
+layout: page
+title: Fiction by Matthew Graybosch
+description: "Here is the fiction Matthew Graybosch has written over the years, most of it science fantasy."
+permalink: /fiction/
+---
+
+<p>This is the speculative fiction I've written over the years. I choose to publish it online under a Creative Commons license because I have a day job and need not seek publication to make a living.</p>
+<p>You can bookmark this page and periodically visit to find new work. There's also an <a href="/fiction/feed.xml">Atom feed</a> for use with your favorite feed reader.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Type</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for story in site.fiction %}
+    <tr>
+      <td>{{ story.date | date: '%F' }}</td>
+      <td>{{ story.type }}</td>
+      <td><a href="{{ story.url }}">{{ story.title }}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<p>I wrote each of these for myself, and publish them on this website at my own expense in the hope that others may enjoy them. As such, the usual policy applies: <em>kudos to contact@matthewgraybosch.com, flames to /dev/null</em>.</p>

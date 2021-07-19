@@ -1,5 +1,7 @@
 .DEFAULT: build
 
+include .depend
+
 update:
 	bundle install
 
@@ -11,3 +13,9 @@ serve: update
 
 entry:
 	./commonplace.sh
+
+install: build
+	rsync --rsh="ssh ${SSH_OPTS}" \
+		  --delete-delay \
+		  -acvz \
+		  _site/ ${REMOTE_HOST}:${REMOTE_PATH}

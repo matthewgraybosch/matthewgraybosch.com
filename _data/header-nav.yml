@@ -4,9 +4,12 @@
 - name: about
   url: /about/
   desc: A little information about who I am and what I do...
-- name: blog
+- name: fiction
+  url: /fiction/
+  desc: "This is the speculative fiction I've written, mainly during lunch breaks at work..."
+- name: weblog
   url: /blog/
-  desc: This is my blog...
+  desc: This is my weblog...
 - name: "commonplace"
   url: /commonplace/
   desc: "A commonplace book is a place for little things: notes, ideas, scraps, links, etc..."

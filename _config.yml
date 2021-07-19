@@ -59,9 +59,15 @@ collections:
   commonplace:
     output: true
     permalink: /:collection/:name
-
+  fiction:
+    output: true
+    permalink: /:collection/:name
+    
 feed:
   posts_limit: 65536
   collections:
     commonplace:
       path: "/commonplace/feed.xml"
+    fiction:
+      path: "/fiction/feed.xml"
+      excerpt_only: true

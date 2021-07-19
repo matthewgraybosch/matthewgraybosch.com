@@ -1,12 +1,9 @@
 - name: colophon
-  url: /colphon/
+  url: /colophon/
   desc: Website Info
 - name: privacy
   url: /privacy/
   desc: my privacy policy in two words? fuck adtech
-- name: atom feed
-  url: /feed.xml
-  desc: Subscribe via Atom feed
-- name: json feed
-  url: /feed.json
-  desc: Syndicate using JSON
+- name: subscriptions
+  url: /subscriptions/
+  desc: How to get updates for this site
